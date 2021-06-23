@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## ![fuzzyLife](https://github.com/animesh/public-html-ani/blob/gita/favicon-32x32.png)Life is Fuzzy, lets try to deFuzzyify, Bit by bIT
 
-You can use the [editor on GitHub](https://github.com/animesh/fuzzyLife/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms w.r.t. demography backed by data 
 
 ```markdown
-Syntax highlighted code block
+- probabilistic diagnosis, specifically, interpret lab tests and imaging results coming from suspected infectious disease and risk assessment of other conditions e.g. cancer
 
-# Header 1
-## Header 2
-### Header 3
+- able to integrate into available health infrastructure via API(s)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- locally sourced data, predicting an outbreak, aiding resource allocation;add Bhojpuri/Hindi to aid urban and rural health care providers respectively
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[currently processing...](https://en.wikipedia.org/wiki/Special:RandomInCategory/Diseases%20and%20disorders)
 
-### Jekyll Themes
+![SNP](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Notable_mutations.svg/500px-Notable_mutations.svg.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/animesh/fuzzyLife/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[repo](https://github.com/animesh/fuzzyLife/settings/pages)
 
-### Support or Contact
+### Support/Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you would like to get involved, contact animesh@fuzzylife.org
+
