@@ -1,6 +1,9 @@
-# [checkup](https://console.cloud.google.com/user-preferences/cloud-profile?project=gita-256714)
-``` 
-python -m SimpleHTTPServer 8080 
+# [checkup](https://boiling-journey-36115.herokuapp.com/)
+e.g. "I am having fever" 
+
+# [setup](https://console.cloud.google.com/user-preferences/cloud-profile?project=gita-256714)
+```
+python -m SimpleHTTPServer 8080
 ```
 
 # [deploy](https://console.cloud.google.com/storage/browser/_details/gita-256714.appspot.com/unnamed.png?project=gita-256714)
