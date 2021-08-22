@@ -4,7 +4,7 @@ I am a Medical graduate who has post-graduated in Bioinformatics.
 [resume](https://docs.google.com/document/d/e/2PACX-1vR_zZMYpe5L7rqkdETVVLzoolkCs6ZFwxR7NDyZ76vQqvux8sBfIiGxTljTjkkycm0lObq-BUWsunIo/pub)
 
 I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, 
-checkout [checkup](https://boiling-journey-36115.herokuapp.com/) with input like "I am having fever"... 
+checkout [diagnozer](https://diagnozer.herokuapp.com/) with input like "I am having fever"... 
 
 ### eventually the plan is to fit in data backed by demographic history
 
@@ -16,11 +16,9 @@ checkout [checkup](https://boiling-journey-36115.herokuapp.com/) with input like
 - locally sourced data, predicting an outbreak, aiding resource allocation;add Bhojpuri/Hindi to aid urban and rural health care providers respectively
 ```
 
-[currently processing...](https://en.wikipedia.org/wiki/Special:RandomInCategory/Diseases%20and%20disorders)
-
-[repo](https://github.com/animesh/fuzzyLife/)
+[currently processing...](https://fuzzylife.herokuapp.com/)
 
 ### Support/Contact
 
-If you would like to get involved, [mail](animesh@fuzzylife.org)
+If you would like to get involved, email me (: animesh@fuzzylife.org :)
 
