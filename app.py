@@ -13,8 +13,8 @@ response = openai.Completion.create(
   stop=["\n"]
 )
 st.write(response)
-prompt=st.text_input("AMA, symptoms?", "I am having fever")
-term=prompt.rsplit(' ', 1)[-1]#"fever"
+term=st.text_input("AMA, symptoms?", "fever")
+term=term.rsplit(' ', 1)[-1]#"fever"
 #term="headache"
 qMesh="https://id.nlm.nih.gov/mesh/lookup/descriptor?label="+term+"&match=exact&limit=1"
 import requests
