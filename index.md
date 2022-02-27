@@ -4,7 +4,7 @@ I am a Medical graduate who has post-graduated in Bioinformatics.
 [resume](https://docs.google.com/document/d/e/2PACX-1vR_zZMYpe5L7rqkdETVVLzoolkCs6ZFwxR7NDyZ76vQqvux8sBfIiGxTljTjkkycm0lObq-BUWsunIo/pub)
 
 I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, 
-checkout [diagnozer](http://checkup.fuzzylife.org/) with input like "I am having fever"... 
+checkout [diagnozer](http://graph.fuzzylife.org/) with input like "fever" with trending [dis-ease map](http://checkup.fuzzylife.org/)
 
 ### eventually the plan is to fit in data backed by demographic history
 
@@ -20,5 +20,5 @@ checkout [diagnozer](http://checkup.fuzzylife.org/) with input like "I am having
 
 ### Support/Contact
 
-If you would like to get involved, please email  [me](animesh@fuzzylife.org) :)
+If you would like to get involved, please send a message to animesh@fuzzylife.org 
 
