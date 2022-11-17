@@ -1,10 +1,10 @@
 ## Life is Fuzzy, lets try to deFuzzyify, Bit by bIT
 
-I am a Medical graduate who has post-graduated in Bioinformatics. 
-[resume](https://docs.google.com/document/d/e/2PACX-1vR_zZMYpe5L7rqkdETVVLzoolkCs6ZFwxR7NDyZ76vQqvux8sBfIiGxTljTjkkycm0lObq-BUWsunIo/pub)
+I am a Medical graduate who has post-graduated in Bioinformatics, [resume](https://docs.google.com/document/d/e/2PACX-1vR_zZMYpe5L7rqkdETVVLzoolkCs6ZFwxR7NDyZ76vQqvux8sBfIiGxTljTjkkycm0lObq-BUWsunIo/pub). 
 
-I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, 
-checkout [diagnozer](http://graph.fuzzylife.org/) with input like "fever" with trending [dis-ease map](http://checkup.fuzzylife.org/)
+Current dis-ease [map](http://checkup.fuzzylife.org/) and [wordcloud](http://checkup.fuzzylife.org/) using which I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, [currently processing...](https://fuzzylife.herokuapp.com/). 
+
+
 
 ### eventually the plan is to fit in data backed by demographic history
 
@@ -16,9 +16,9 @@ checkout [diagnozer](http://graph.fuzzylife.org/) with input like "fever" with t
 - locally sourced data, predicting an outbreak, aiding resource allocation;add Bhojpuri/Hindi to aid urban and rural health care providers respectively
 ```
 
-[currently processing...](https://fuzzylife.herokuapp.com/)
+
 
 ### Support/Contact
 
-If you would like to get involved, please send a message to animesh@fuzzylife.org 
+(If you would like to support or get involved,  please send me an <a href="mailto:people@fuzzylife.org">email</a> :)
 
