@@ -2,7 +2,7 @@
 
 I am a Medical graduate who has post-graduated in Bioinformatics, [resume](https://docs.google.com/document/d/e/2PACX-1vR_zZMYpe5L7rqkdETVVLzoolkCs6ZFwxR7NDyZ76vQqvux8sBfIiGxTljTjkkycm0lObq-BUWsunIo/pub). 
 
-Current dis-ease [map](http://checkup.fuzzylife.org/) and [wordcloud](http://checkup.fuzzylife.org/) using which I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, [currently processing...](https://fuzzylife.herokuapp.com/). 
+Current dis-ease [map](http://checkup.fuzzylife.org/) and [wordcloud](https://raw.githubusercontent.com/animesh/Twitter-Sentiment-Analysis-Projects-2022-/master/cloud.png) using which I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, [currently processing...](https://fuzzylife.herokuapp.com/). 
 
 
 
@@ -20,5 +20,5 @@ Current dis-ease [map](http://checkup.fuzzylife.org/) and [wordcloud](http://che
 
 ### Support/Contact
 
-(If you would like to support or get involved,  please send me an <a href="mailto:people@fuzzylife.org">email</a> :)
+(If you would like to support or get involved,  please send me an <a href="mailto:sharma.animesh@gmail.com">email</a> :)
 
