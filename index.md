@@ -20,5 +20,5 @@ Current dis-ease [map](http://checkup.fuzzylife.org/) and [wordcloud](https://ra
 
 ### Support/Contact
 
-(If you would like to support or get involved,  please send me an <a href="mailto:sharma.animesh@gmail.com">email</a> :)
+( If you would like to support, feel free to buy me a http://ko-fi.com/animesh or get involved,  please send me an <a href="mailto:animesh@fuzzylife.org">email</a> :)
 
