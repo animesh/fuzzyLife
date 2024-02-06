@@ -16,9 +16,30 @@ Current dis-ease [map](http://checkup.fuzzylife.org/) and [wordcloud](https://ra
 - locally sourced data, predicting an outbreak, aiding resource allocation;add Bhojpuri/Hindi to aid urban and rural health care providers respectively
 ```
 
-
-
 ### Support/Contact
 
 ( If you would like to support, feel free to buy me a http://ko-fi.com/animesh or get involved,  please send me an <a href="mailto:animesh@fuzzylife.org">email</a> :)
+
+
+### Release as in under Uniprot's 
+--------------------------------------------------------------------------------
+  LICENSE
+--------------------------------------------------------------------------------
+We have chosen to apply the Creative Commons Attribution 4.0 International
+(CC BY 4.0) License (https://creativecommons.org/licenses/by/4.0/) to all
+copyrightable parts of our databases.
+
+(c) fuzzyLife
+
+--------------------------------------------------------------------------------
+  DISCLAIMER
+--------------------------------------------------------------------------------
+We make no warranties regarding the correctness of the data, and disclaim
+liability for damages resulting from its use. We cannot provide unrestricted
+permission regarding the use of the data, as some data may be covered by patents
+or other rights.
+
+Any medical or genetic information is provided for research, educational and
+informational purposes only. It is not in any way intended to be used as a
+substitute for professional medical advice, diagnosis, treatment or care.
 
