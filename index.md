@@ -2,9 +2,7 @@
 
 I am a Medical graduate who has post-graduated in Bioinformatics, [resume](https://docs.google.com/document/d/e/2PACX-1vR_zZMYpe5L7rqkdETVVLzoolkCs6ZFwxR7NDyZ76vQqvux8sBfIiGxTljTjkkycm0lObq-BUWsunIo/pub). 
 
-Current dis-ease [map](http://checkup.fuzzylife.org/) and [wordcloud](https://raw.githubusercontent.com/animesh/Twitter-Sentiment-Analysis-Projects-2022-/master/cloud.png) using which I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, [currently processing...](https://fuzzylife.herokuapp.com/). 
-
-
+Current dis-ease [map](https://disease-galaxy-atlas.lovable.app/) and [bar-char](http://checkup.fuzzylife.org/) using which I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, [currently processing](https://en.wikipedia.org/wiki/Special:RandomInCategory/Diseases_and_disorders)...
 
 ### eventually the plan is to fit in data backed by demographic history
 
@@ -18,10 +16,11 @@ Current dis-ease [map](http://checkup.fuzzylife.org/) and [wordcloud](https://ra
 
 ### Support/Contact
 
-( If you would like to support, feel free to buy me a http://ko-fi.com/animesh or get involved,  please send me an <a href="mailto:animesh@fuzzylife.org">email</a> :)
+( If you would like to get involved,  please send me an <a href="mailto:animesh@fuzzylife.org">email</a> :)
 
 
 ### Release as in under Uniprot's 
+```
 --------------------------------------------------------------------------------
   LICENSE
 --------------------------------------------------------------------------------
@@ -42,4 +41,5 @@ or other rights.
 Any medical or genetic information is provided for research, educational and
 informational purposes only. It is not in any way intended to be used as a
 substitute for professional medical advice, diagnosis, treatment or care.
+```
 
