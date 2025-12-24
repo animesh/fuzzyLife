@@ -1,8 +1,8 @@
-## Life is Fuzzy, lets try to deFuzzyify, Bit by bIT
+## Life is Fuzzy, lets try to deFuzzyify, It by Bit
 
 I am a [licenced](https://www.delhimedicalcouncil.org/home/search_ur_dr_submit?First_Name=Animesh&Mobile=&Email=sharma.animesh@gmail.com) Medical Doctor who has Post-Graduated in Bioinformatics [resume](https://docs.google.com/document/d/e/2PACX-1vR_zZMYpe5L7rqkdETVVLzoolkCs6ZFwxR7NDyZ76vQqvux8sBfIiGxTljTjkkycm0lObq-BUWsunIo/pub). 
 
-Current dis-ease [map](https://global-disease-track--animesh.github.app/) and [bar-char](http://checkup.fuzzylife.org/) using which I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, [currently processing](https://en.wikipedia.org/wiki/Special:RandomInCategory/Diseases_and_disorders)...
+Current dis-ease [map](https://health-globe--animesh1977.replit.app) and [bar-char](http://checkup.fuzzylife.org/) using which I am trying to develop an Artificial Intelligence powered system to augment doctors in interpreting symptoms, [currently processing](https://en.wikipedia.org/wiki/Special:RandomInCategory/Diseases_and_disorders)...
 
 ### eventually the plan is to fit in data backed by demographic history
 
